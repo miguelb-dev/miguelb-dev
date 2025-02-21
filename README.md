@@ -55,9 +55,9 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 
 ## 📫 ¿Cómo contactarme?
 
-- **Email:** miguelb.dev@example.com
+- **Email:** mbethancourt2005@gmail.com
 - **LinkedIn:** [MiguelB-Dev](https://www.linkedin.com/in/MiguelB-Dev)
-- **Twitter:** [@MiguelB-Dev](https://twitter.com/MiguelB-Dev)
+- **X:** [@MiguelBe_Dev](https://x.com/MiguelBe_dev)
 
 ## 💬 ¡Conectemos!
 
