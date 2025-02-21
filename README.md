@@ -67,7 +67,7 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 
 - **Email:** [![Email Badge](https://img.shields.io/badge/Email-mbethancourt2005%40gmail.com-blue)](mailto:mbethancourt2005@gmail.com)
 - **LinkedIn:** [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-MiguelB--Dev-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MiguelB-Dev)
-- **X (Twitter):** [![Twitter Badge](https://img.shields.io/badge/Twitter-@MiguelBe_Dev-blue?style=flat&logo=x&logoColor=white)](https://x.com/MiguelBe_dev)
+- **X (Twitter):** [![Twitter Badge](https://img.shields.io/badge/Twitter-@MiguelBe_Dev-blue?style=flat&logo=x&logoColor=white)](https://x.com/@MiguelBe_dev)
 
 ## 💬 ¡Conectemos!
 
