@@ -40,7 +40,7 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 ## 🏆 Reconocimientos
 
 - **[Certificación del Festival Latinoamericano de Instalación de Software Libre](enlace-al-certificado)** (FLISOL, 2024)
-- **[Programación Básica con Python del Centro Nacional de Tecnologías de Información](enlace-al-premio)** (CNTI, 2023)
+- **[Programación Básica con Python del Centro Nacional de Tecnologías de Información](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20en%20Programaci%C3%B3n%20B%C3%A1sica%20con%20Python%20de%20CNTI.pdf)** (CNTI, 2023)
 
 ## 🎮 Hobbies e Intereses
 
