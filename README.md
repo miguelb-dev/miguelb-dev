@@ -27,17 +27,13 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 
 ## 🛠 Metodologías y Enfoques de Desarrollo
 
-- **BEM (Block, Element, Modifier):** Utilizo esta metodología para escribir CSS modular y escalable, asegurando que los estilos sean fáciles de mantener y reutilizar.  
-  ![BEM](https://img.shields.io/badge/BEM-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+- **BEM (Block, Element, Modifier):** Utilizo esta metodología para escribir CSS modular y escalable, asegurando que los estilos sean fáciles de mantener y reutilizar. ![BEM](https://img.shields.io/badge/BEM-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
-- **GitFlow:** Adopto esta metodología de branching para gestionar los flujos de trabajo en proyectos colaborativos.  
-  ![GitFlow](https://img.shields.io/badge/GitFlow-%23F14C28.svg?style=flat&logo=git&logoColor=white)
+- **GitFlow:** Adopto esta metodología de branching para gestionar los flujos de trabajo en proyectos colaborativos. ![GitFlow](https://img.shields.io/badge/GitFlow-%23F14C28.svg?style=flat&logo=git&logoColor=white)
 
-- **SCRUM:** Estoy aprendiendo sobre SCRUM para gestionar proyectos de software de manera ágil, facilitando la entrega continua y mejorando la colaboración en equipos multidisciplinarios.  
-  ![SCRUM](https://img.shields.io/badge/SCRUM-%23FF6F00.svg?style=flat&logo=scrum&logoColor=white)
+- **SCRUM:** Estoy aprendiendo sobre SCRUM para gestionar proyectos de software de manera ágil, facilitando la entrega continua y mejorando la colaboración en equipos multidisciplinarios. ![SCRUM](https://img.shields.io/badge/SCRUM-%23FF6F00.svg?style=flat&logo=scrum&logoColor=white)
 
-- **MVC (Modelo-Vista-Controlador):** Estoy aprendiendo y aplicando el patrón MVC para estructurar aplicaciones web, separando las preocupaciones y mejorando la mantenibilidad del código.  
-  ![MVC](https://img.shields.io/badge/MVC-%23777BB4.svg?style=flat&logo=angular&logoColor=white)
+- **MVC (Modelo-Vista-Controlador):** Estoy aprendiendo y aplicando el patrón MVC para estructurar aplicaciones web, separando las preocupaciones y mejorando la mantenibilidad del código. ![MVC](https://img.shields.io/badge/MVC-%23777BB4.svg?style=flat&logo=angular&logoColor=white)
 
 ## 🌱 Actualmente estoy aprendiendo
 
