@@ -60,7 +60,7 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub de Miguel](https://github-readme-stats.vercel.app/api?username=MiguelB-Dev&show_icons=true&hide=commits&theme=radical)
+![Estadísticas de GitHub de Miguel](https://github-readme-stats.vercel.app/api?username=MiguelB-Dev&show_icons=true&hide=commits&count_private=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelB-Dev&layout=compact&theme=radical)
 
 ## 📫 ¿Cómo contactarme?
