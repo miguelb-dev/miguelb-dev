@@ -54,9 +54,9 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 
 ## 🎮 Hobbies e Intereses
 
-- Me encanta **aprender sobre criptomonedas** y explorar las últimas tendencias en blockchain.
-- **Jugar ajedrez** y resolver **rompecabezas**, actividades que estimulan mi pensamiento lógico y estratégico.
-- Me apasiona **la literatura** y disfruto explorar distintos géneros y autores, especialmente aquellos que abordan temas sobre filosofía y sociedad.
+- Me encanta **aprender sobre criptoactivos** y explorar las últimas tendencias en la blockchain.
+- Me apasiona **Jugar ajedrez** y resolver **rompecabezas**, actividades que estimulan mi pensamiento lógico y estratégico.
+- Disfruto de **la literatura** de distintos géneros y autores, especialmente aquellos que abordan temas sobre filosofía y sociedad.
 
 ## 📈 Estadísticas de GitHub
 
