@@ -24,6 +24,9 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 - **Control de versiones:** 
   ![Git](https://img.shields.io/badge/Git-%23F14C28.svg?style=flat&logo=git&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+  
+- **Herramientas adicionales:**  
+  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 ## 🛠 Metodologías y Enfoques de Desarrollo
 
