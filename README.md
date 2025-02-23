@@ -21,12 +21,11 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
   ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
-- **Control de versiones:** 
+- **Control de versiones:**
   ![Git](https://img.shields.io/badge/Git-%23F14C28.svg?style=flat&logo=git&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
   
-- **Herramientas adicionales:**  
-  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+- **Herramientas adicionales:** ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
 ## 🛠 Metodologías y Enfoques de Desarrollo
 
