@@ -1,14 +1,12 @@
-# ¡Hola! Soy Miguel Bethancourt 👋
-
-Soy un apasionado desarrollador de software con un gran interés en el desarrollo web, proyectos de código abierto y el aprendizaje continuo. Me encanta explorar nuevas tecnologías y mejorar mis habilidades a través de proyectos prácticos.
+# Soy Miguel Bethancourt, desarrollador web frontend 👋
 
 ## 🚀 Sobre mí
 
-- 🌐 Tengo experiencia en **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL**, **Git** y **GitHub**.
-- 💼 Actualmente estoy desarrollando varios proyectos de desarrollo web con el objetivo de convertirme en un desarrollador **full-stack**.
+- 🌐 Tengo experiencia en **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL** y **Git**.
+- 💼 Actualmente estoy desarrollando varios proyectos de desarrollo web frontend.
 - 📚 Soy estudiante de tercer año de **Ingeniería en Informática** en la **UPTTMBI** (Universidad Politécnica Territorial del Estado Trujillo "Mario Briceño Iragorry"), y poseo un **Título de Técnico Superior Universitario en Informática**.
-- 💬 Estoy aprendiendo inglés para ampliar mis oportunidades laborales y colaborar globalmente.
-- 🤝 Abierto a colaboraciones en proyectos de **código abierto** y nuevos desafíos.
+- 💬 Tengo un nivel de inglés B2.
+- 🤝 Abierto a colaboraciones en proyectos y nuevos desafíos.
 
 ## 🔧 Tecnologías y herramientas
 
@@ -51,14 +49,15 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 
 ## 🏆 Reconocimientos
 
+- **[Título de Técnico Superior Universitario en Informática](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)** (UPTTMBI, 2025)
 - **[Certificación del Festival Latinoamericano de Instalación de Software Libre](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)** (FLISOL, 2024)
 - **[Programación Básica con Python del Centro Nacional de Tecnologías de Información](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20en%20Programaci%C3%B3n%20B%C3%A1sica%20con%20Python%20de%20CNTI.pdf)** (CNTI, 2023)
 
-## 🎮 Hobbies e Intereses
+## 💡 Hobbies e Intereses
 
-- Me encanta **aprender sobre criptoactivos** y explorar las últimas tendencias en la blockchain.
-- Me apasiona **Jugar ajedrez** y resolver **rompecabezas**, actividades que estimulan mi pensamiento lógico y estratégico.
-- Disfruto de **la literatura** de distintos géneros y autores, especialmente aquellos que abordan temas sobre filosofía y sociedad.
+- Me apasiona **el desarrollo web y el diseño responsivo**.
+- Me encanta aprender sobre criptoactivos y explorar las últimas tendencias en la blockchain.
+- Disfruto del **aprendizaje sobre las últimas tecnologías y las buenas prácticas**.
 
 ## 📈 Estadísticas de GitHub
 
@@ -69,7 +68,7 @@ Soy un apasionado desarrollador de software con un gran interés en el desarroll
 ## 📫 ¿Cómo contactarme?
 
 - **Email:** mbethancourt2005@gmail.com
-- **LinkedIn:** [MiguelB-Dev](https://www.linkedin.com/in/MiguelB-Dev)
+- **LinkedIn:** [MiguelB-Dev](https://www.linkedin.com/in/miguel-alexander-bethancourt-brice%C3%B1o-31024a375/)
 - **X:** [@MiguelBe_Dev](https://x.com/@MiguelBe_dev)
 
 ## 💬 ¡Conectemos!
