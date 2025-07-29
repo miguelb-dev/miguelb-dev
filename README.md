@@ -1,4 +1,4 @@
-# Soy Miguel Bethancourt, desarrollador web frontend 👋
+# Miguel Bethancourt, desarrollador web frontend 👋
 
 ## 🚀 Sobre mí
 
