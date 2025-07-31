@@ -1,8 +1,9 @@
 # Hola, soy Miguel Bethancourt 👋
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+MiguelB-dev..&hearts;++;A+Front-End+Developer;And+a+Software+Engineering+Student;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi!,+I+am+MiguelB-dev;A+Frontend+Developer;And+a+Software+Engineering+Student;">
+  </a>
 </p>
-<br>
 
 ## 🚀 Sobre mí
 
@@ -23,11 +24,11 @@
 - **Backend básico**<br><br>
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 
 - **Extras**<br><br>
 ![Git](https://img.shields.io/badge/Git-%23F14C28.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 <br>
 
