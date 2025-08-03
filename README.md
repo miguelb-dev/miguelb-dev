@@ -43,14 +43,8 @@
 - **MVC (Modelo-Vista-Controlador):** Para estructurar aplicaciones web y garantizar la mantenibilidad del código. ![MVC](https://img.shields.io/badge/MVC-%23777BB4.svg?style=flat&logo=angular&logoColor=white)
 <br>
 
-## 🌱 Actualmente estoy aprendiendo
 
-- Conceptos avanzados de **JavaScript** y **React**.
-- Desarrollo responsivo y entendimiento del SEO.
-- Mejorando mis habilidades en **inglés**.
-<br>
-
-## 🏆 Certificados y Reconocimientos
+## 🏆 Reconocimientos
 
 - **[Título de Técnico Superior Universitario en Informática](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)** (UPTTMBI, 2025)
 - **[Certificación del Festival Latinoamericano de Instalación de Software Libre](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)** (FLISOL, 2024)
