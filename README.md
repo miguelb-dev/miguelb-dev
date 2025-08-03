@@ -51,7 +51,7 @@
 - **[Programación Básica con Python del Centro Nacional de Tecnologías de Información](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20en%20Programaci%C3%B3n%20B%C3%A1sica%20con%20Python%20de%20CNTI.pdf)** (CNTI, 2023)
 <br>
 
-## 📈 Estadísticas de GitHub
+## 📈 Estadísticas
 
 ![Estadísticas de GitHub de Miguel](https://github-readme-stats.vercel.app/api?username=MiguelB-Dev&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelB-Dev&layout=compact&theme=radical)
