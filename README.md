@@ -66,5 +66,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbethancourt2005@gmail.com?subject=Contacto%20desde%20GitHub)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010d7d38036ae51888)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-bethancourt-31024a375/)
-
+[![InfoJobs](https://img.shields.io/badge/InfoJobs-FF6D00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIj48cGF0aCBmaWxsPSIjRkZENDAwIiBkPSJNMjQwIDExOS44QzI0MCA1My43IDE4Ni4zIDAgMTIwLjIgMFMwIDUzLjcgMCAxMTkuOEMwIDE4NiAxNTcuNiAyNDAgMTIwLjIgMjQwUzI0MCAxODYgMjQwIDExOS44WiIvPjxwYXRoIGZpbGw9IiNGRkYiIGQ9Ik0xMzkuNiA3OC4zaC0zOS4xdjgzLjloMzkuMVY3OC4zek04OC4zIDk5LjZoMTguM3Y2Mi42SDg4LjN2LTYyLjZ6bTQ4LjkgNDEuN2MwIDExLjUtOS4zIDIwLjgtMjAuOCAyMC44cy0yMC44LTkuMy0yMC44LTIwLjggOS4zLTIwLjggMjAuOC0yMC44IDIwLjggOS4zIDIwLjggMjAuOHoiLz48L3N2Zz4=&logoColor=white)](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=16762098132415969803)
 </div>
