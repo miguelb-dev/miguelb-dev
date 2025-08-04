@@ -46,9 +46,9 @@
 
 ## 🏆 Reconocimientos
 
-- **[Título de Técnico Superior Universitario en Informática](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)** (UPTTMBI, 2025)
-- **[Certificación del Festival Latinoamericano de Instalación de Software Libre](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)** (FLISOL, 2024)
-- **[Programación Básica con Python del Centro Nacional de Tecnologías de Información](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20en%20Programaci%C3%B3n%20B%C3%A1sica%20con%20Python%20de%20CNTI.pdf)** (CNTI, 2023)
+- **[Título de Técnico Superior Universitario en Informática](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)**
+- **[Certificación del Festival Latinoamericano de Instalación de Software Libre](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)**
+- **[Programación Básica con Python del Centro Nacional de Tecnologías de Información](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20en%20Programaci%C3%B3n%20B%C3%A1sica%20con%20Python%20de%20CNTI.pdf)**
 <br>
 
 ## 📈 Estadísticas
