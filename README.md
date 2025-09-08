@@ -60,10 +60,6 @@
 
 <br>
 
-[![Todos mis repositorios](https://custom-icon-badges.demolab.com/badge/-Click%20Aquí%20Para%20ver%20todos%20mis%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo)](https://github.com/MiguelB-dev?tab=repositories&sort=stargazers)
-
-<br>
-
 ## ✉ Conectemos
 
 <div align= "center">
