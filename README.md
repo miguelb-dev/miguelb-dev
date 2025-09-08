@@ -41,8 +41,6 @@
 
 - ![KANBAN](https://img.shields.io/badge/KANBAN-%230079BF.svg?style=flat&logo=trello&logoColor=white) **KANBAN:** Para visualizar el flujo de trabajo y gestionar tareas de manera eficiente.
 
-- ![MVC](https://img.shields.io/badge/MVC-%23777BB4.svg?style=flat&logo=angular&logoColor=white) **MVC (Modelo-Vista-Controlador):** Para estructurar aplicaciones web y garantizar la mantenibilidad del código.
-
 <br>
 
 ## 🏆 Reconocimientos
