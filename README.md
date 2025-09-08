@@ -7,7 +7,7 @@
 - 🌐 Desarrollador frontend.
 - 👨🏻‍🎓 **Técnico Superior Universitario en Informática**.
 - 📚 Estudiante de 3er año de **Ingeniería en Informática**.
-- 💬 Nivel de Inglés B2.
+- 💬 Hablante de Inglés B2.
 - 🛠️ Trabajando en variedad de proyectos.
 - 🤝 Abierto a colaboraciones, oportunidades laborales y nuevos desafíos.
 
