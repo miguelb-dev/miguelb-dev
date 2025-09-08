@@ -15,17 +15,19 @@
 
 ## 🔧 Stack Tecnológico
 
-### Frontend
+<br>
 
-[![Frontend Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql"/>
+  </a>
+</p>
 
-### Backend
-
-[![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
-
-### Extras
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,md)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,md"/>
+  </a>
+</p>
 
 <br>
 
