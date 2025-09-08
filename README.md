@@ -43,16 +43,6 @@
 
 <br>
 
-## 🏆 Reconocimientos
-
-- **[Título de Técnico Superior Universitario en Informática](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)**
-
-- **[Certificación del Festival Latinoamericano de Instalación de Software Libre](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20de%20FLISOL.pdf)**
-
-- **[Programación Básica con Python del Centro Nacional de Tecnologías de Información](https://github.com/MiguelB-Dev/MiguelB-dev/raw/main/Certificados/Certificado%20en%20Programaci%C3%B3n%20B%C3%A1sica%20con%20Python%20de%20CNTI.pdf)**
-
-<br>
-
 ## 📈 Estadísticas
 
 <div align="center">
@@ -61,6 +51,10 @@
 ![Estadísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelB-dev&theme=github_dark)
 ![Productividad](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelB-dev&theme=github_dark&utcOffset=8)
 ![Grafo de actividad](https://github-readme-activity-graph.vercel.app/graph?username=MiguelB-dev&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)
+
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=MiguelB-dev&theme=radical&column=-1&title=Repositories,Commits,Followers,Issues,Experience&margin-w=10"/>
+</p>
 
 </div>
 
