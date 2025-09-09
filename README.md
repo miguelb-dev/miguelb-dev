@@ -53,7 +53,7 @@
 ![Grafo de actividad](https://github-readme-activity-graph.vercel.app/graph?username=MiguelB-dev&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=MiguelB-dev&theme=radical&column=-1&title=Repositories,Commits,Followers,Issues,Experience&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MiguelB-dev&theme=radical&column=-1&title=Repositories,Commits,Followers,Issues,Experience&margin-w=10"/>
 </p>
 
 </div>
