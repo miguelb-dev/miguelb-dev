@@ -6,7 +6,7 @@
 
 - 🌐 Desarrollador frontend.
 - 👨🏻‍🎓 **Técnico Superior Universitario en Informática**.
-- 📚 Estudiante de 3er año de **Ingeniería en Informática**.
+- 📚 Estudiante de último año de **Ingeniería en Informática**.
 - 💬 Hablante de Inglés B2.
 - 🛠️ Trabajando en variedad de proyectos.
 - 🤝 Abierto a colaboraciones, oportunidades laborales y nuevos desafíos.
@@ -19,13 +19,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,php,mysql"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,php,mysql"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,md"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,md"/>
   </a>
 </p>
 
