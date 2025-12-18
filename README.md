@@ -8,7 +8,6 @@
 - 👨🏻‍🎓 **Técnico Superior Universitario en Informática**.
 - 📚 Estudiante de último año de **Ingeniería en Informática**.
 - 💬 Hablante de Inglés B2.
-- 🛠️ Trabajando en variedad de proyectos.
 - 🤝 Abierto a colaboraciones, oportunidades laborales y nuevos desafíos.
 
 <br>
