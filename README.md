@@ -2,7 +2,7 @@
 
 [![Escritura SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&height=200&lines=%22Escribiendo+Código%2C+Construyendo+Sueños%22;¡Bienvenido+a+mi+Perfil+de+GitHub!)](https://git.io/typing-svg)
 
-## 👨🏻‍💻 Sobre mí
+## 👨🏻‍💻 Sobre mí 
 
 - 🌐 Desarrollador frontend.
 - 👨🏻‍🎓 **Técnico Superior Universitario en Informática**.
@@ -50,11 +50,10 @@
 ![Detalles del perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelB-dev&theme=github_dark)
 ![Estadísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelB-dev&theme=github_dark)
 ![Productividad](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelB-dev&theme=github_dark&utcOffset=8)
-![Grafo de actividad](https://github-readme-activity-graph.vercel.app/graph?username=MiguelB-dev&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MiguelB-dev&theme=radical&column=-1&title=Repositories,Commits,Followers,Issues,Experience&margin-w=10"/>
-</p>
+</p> -->
 
 </div>
 
