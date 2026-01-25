@@ -1,10 +1,10 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/> Hola, Soy Miguel Bethancourt</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/> Hi, My name is Miguel Bethancourt</h1>
 
-[![Escritura SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&height=200&lines=%22Escribiendo+Código%2C+Construyendo+Sueños%22;¡Bienvenido+a+mi+Perfil+de+GitHub!)](https://git.io/typing-svg)
+[![Escritura SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&height=200&lines=%22Writting+Code%2C+Building+Dreams%22;¡Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
-## 👨🏻‍💻 Sobre mí 
+## 👨🏻‍💻 About Me 
 
-- 🌐 Desarrollador frontend.
+- 🌐 Frontend Developer.
 - 👨🏻‍🎓 **Técnico Superior Universitario en Informática**.
 - 📚 Estudiante de último año de **Ingeniería en Informática**.
 - 💬 Hablante de Inglés B2.
@@ -12,7 +12,7 @@
 
 <br>
 
-## 🔧 Stack Tecnológico
+## 🔧 Stack
 
 <br>
 
@@ -30,11 +30,11 @@
 
 <br>
 
-## 🛠 Metodologías y Enfoques de Desarrollo
+## 🛠 Metodologies
 
-- ![BEM](https://img.shields.io/badge/BEM-%2346E9.svg?style=flat&logo=CSS&logoColor=white) **BEM (Block, Element, Modifier):** Para escribir CSS modular y escalable.
+- ![BEM](https://img.shields.io/badge/BEM-%2346E9.svg?style=flat&logo=CSS&logoColor=white) **BEM (Block, Element, Modifier):** To write modular and scalable CSS.
 
-- ![GitFlow](https://img.shields.io/badge/GitFlow-%23F14C28.svg?style=flat&logo=git&logoColor=white) **GitFlow:** Para gestionar los flujos de trabajo de una forma organizada.
+- ![GitFlow](https://img.shields.io/badge/GitFlow-%23F14C28.svg?style=flat&logo=git&logoColor=white) **GitFlow:** to manage the workflow.
 
 - ![SCRUM](https://img.shields.io/badge/SCRUM-%23FF6F00.svg?style=flat&logo=scrum&logoColor=white) **SCRUM:** Para trabajar en proyectos colaborativos de manera ágil y con entrega continua.
 
@@ -42,13 +42,13 @@
 
 <br>
 
-## 📈 Estadísticas
+## 📈 statistics
 
 <div align="center">
 
-![Detalles del perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelB-dev&theme=github_dark)
-![Estadísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelB-dev&theme=github_dark)
-![Productividad](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelB-dev&theme=github_dark&utcOffset=8)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelB-dev&theme=github_dark)
+![statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelB-dev&theme=github_dark)
+![Productividy](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelB-dev&theme=github_dark&utcOffset=8)
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MiguelB-dev&theme=radical&column=-1&title=Repositories,Commits,Followers,Issues,Experience&margin-w=10"/>
@@ -58,8 +58,7 @@
 
 <br>
 
-## ✉ Conectemos
-
+## ✉ Let's connect
 <div align= "center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelb_dev/)
