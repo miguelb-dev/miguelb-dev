@@ -1,14 +1,14 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/> Hi, My name is Miguel Bethancourt</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/> Hi, my name is Miguel Bethancourt</h1>
 
 [![Escritura SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&height=200&lines=%22Writting+Code%2C+Building+Dreams%22;¡Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 About Me 
 
 - 🌐 Frontend Developer.
-- 👨🏻‍🎓 **Técnico Superior Universitario en Informática**.
-- 📚 Estudiante de último año de **Ingeniería en Informática**.
-- 💬 Hablante de Inglés B2.
-- 🤝 Abierto a colaboraciones, oportunidades laborales y nuevos desafíos.
+- 👨🏻‍🎓 **Higher University Technician in Computer Science**.
+- 📚 I'm in the last year in **Software Engineering**.
+- 💬 I have a B2 of English.
+- 🤝 And I'm open to colaborations, oportunities and new challenges.
 
 <br>
 
