@@ -7,8 +7,7 @@
 - 🌐 Frontend Developer.
 - 👨🏻‍🎓 **Higher University Technician in Computer Science**.
 - 📚 I'm in the last year in **Software Engineering**.
-- 💬 I have a B2 of English.
-- 🤝 And I'm open to colaborations, oportunities and new challenges.
+- 🤝 Open to colaborations, oportunities and new challenges.
 
 <br>
 
@@ -18,13 +17,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,php,mysql"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,md"/>
+    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,vscode,vite"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md"/>
   </a>
 </p>
 
@@ -50,18 +55,15 @@
 ![statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelB-dev&theme=github_dark)
 ![Productividy](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelB-dev&theme=github_dark&utcOffset=8)
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MiguelB-dev&theme=radical&column=-1&title=Repositories,Commits,Followers,Issues,Experience&margin-w=10"/>
-</p> -->
-
 </div>
 
 <br>
 
-## ✉ Let's connect
+## ✉ Let's connect!
 <div align= "center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelb_dev/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/miguelonb_dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbethancourt2005@gmail.com?subject=Contacto%20desde%20GitHub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-bethancourt-31024a375/)
 [![InfoJobs](https://img.shields.io/badge/InfoJobs-104CB0?style=for-the-badge&logo=)](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=16762098132415969803)
