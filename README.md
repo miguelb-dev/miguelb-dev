@@ -1,17 +1,17 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/> Hi, my name is Miguel Bethancourt</h1>
+<h1 align="center"> Hola, my nombre es Miguel Bethancourt <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&height=200&lines=%22Writing+Code%2C+Building+Dreams%22;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&height=200&lines=%22Escribiendo+Código%2C+Construyendo+Sueños%22;¡Bienvenido+a+mi+Perfil+de+GitHub!)](https://git.io/typing-svg)
 
-## 👨🏻‍💻 About Me 
+## 👨🏻‍💻 Sobre mí
 
-- 🌐 Frontend Developer.
-- 👨🏻‍🎓 **Higher University Technician in Computer Science**.
-- 📚 I'm in my final year of **Software Engineering**.
-- 🤝 Open to collaborations, opportunities, and new challenges.
+- 🌐 Desarrollador Front-End.
+- 👨🏻‍🎓 **Ténico Superior Universitario en Informática**.
+- 📚 Estudiante de último año de Ingeniería Informática.
+- 🤝 Abierto a colaboraciones, oportunidades y nuevos desafíos.
 
 <br>
 
-## 🔧 Tech Stack
+## 🔧 Stack
 
 <br>
 
@@ -35,31 +35,31 @@
 
 <br>
 
-## 🛠 Methodologies
+## 🛠 Metodologías
 
-- ![BEM](https://img.shields.io/badge/BEM-%2346E9.svg?style=flat&logo=CSS&logoColor=white) **BEM (Block, Element, Modifier):** For writing modular and scalable CSS.
+- ![BEM](https://img.shields.io/badge/BEM-%2346E9.svg?style=flat&logo=CSS&logoColor=white) **BEM (Block, Element, Modifier):** Para escribir CSS modular y escalable.
 
-- ![GitFlow](https://img.shields.io/badge/GitFlow-%23F14C28.svg?style=flat&logo=git&logoColor=white) **GitFlow:** For managing workflow.
+- ![GitFlow](https://img.shields.io/badge/GitFlow-%23F14C28.svg?style=flat&logo=git&logoColor=white) **GitFlow:** Para el manejo organizado del flujo de trabajo en Git.
 
-- ![SCRUM](https://img.shields.io/badge/SCRUM-%23FF6F00.svg?style=flat&logo=scrum&logoColor=white) **SCRUM:** For working collaboratively on projects in an agile way with continuous delivery.
+- ![SCRUM](https://img.shields.io/badge/SCRUM-%23FF6F00.svg?style=flat&logo=scrum&logoColor=white) **SCRUM:** Para el trabajo colaborativo en proyectos de entregas continuas.
 
-- ![KANBAN](https://img.shields.io/badge/KANBAN-%230079BF.svg?style=flat&logo=trello&logoColor=white) **KANBAN:** For visualizing workflow and managing tasks efficiently.
+- ![KANBAN](https://img.shields.io/badge/KANBAN-%230079BF.svg?style=flat&logo=trello&logoColor=white) **KANBAN:** Para visualizar el flujo de trabajo y el manejo de tareas de forma eficiente.
 
 <br>
 
-## 📈 GitHub Statistics
+## 📈 Estadísticas
 
 <div align="center">
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelB-dev&theme=github_dark)
-![Statistics](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelB-dev&theme=github_dark)
-![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelB-dev&theme=github_dark&utcOffset=8)
+![Datos del Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiguelB-dev&theme=github_dark)
+![Estadísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiguelB-dev&theme=github_dark)
+![Productividad](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelB-dev&theme=github_dark&utcOffset=8)
 
 </div>
 
 <br>
 
-## ✉️ Let's connect!
+## ✉️ ¡Conectemos!
 <div align= "center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelb_dev/)
