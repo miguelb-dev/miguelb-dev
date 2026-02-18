@@ -17,13 +17,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,git,github,vscode,vite"/>
+    <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,vite"/>
   </a>
 </p>
 
