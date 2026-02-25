@@ -1,17 +1,23 @@
-<h1 align="center"> Hola, my nombre es Miguel Bethancourt <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/></h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
+
+<h1 align="center"> Hola, soy Miguel Bethancourt <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&height=200&lines=%22Escribiendo+Código%2C+Construyendo+Sueños%22;¡Bienvenido+a+mi+Perfil+de+GitHub!)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻 Sobre mí
 
-- 🌐 Desarrollador Front-End.
-- 👨🏻‍🎓 **Ténico Superior Universitario en Informática**.
-- 📚 Estudiante de último año de Ingeniería Informática.
-- 🤝 Abierto a colaboraciones, oportunidades y nuevos desafíos.
+<div>
+  <a href="https://vaibhavkesarwani.vercel.app/"><img align="right" src="/assets/gif/loading.gif" alt="Profile Image" width="300"/></a>
+</div>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing the indian pacific" width="25" align="center"/> Desarrollador Front-End.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> **Ténico Superior Universitario en Informática**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> Estudiante de último año de Ingeniería Informática.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> Abierto a colaboraciones, oportunidades y nuevos desafíos.
 
 <br>
 
-## 🔧 Stack
+## 🛠 Stack
 
 <br>
 
@@ -35,18 +41,6 @@
 
 <br>
 
-## 🛠 Metodologías
-
-- ![BEM](https://img.shields.io/badge/BEM-%2346E9.svg?style=flat&logo=CSS&logoColor=white) **BEM (Block, Element, Modifier):** Para escribir CSS modular y escalable.
-
-- ![GitFlow](https://img.shields.io/badge/GitFlow-%23F14C28.svg?style=flat&logo=git&logoColor=white) **GitFlow:** Para el manejo organizado del flujo de trabajo en Git.
-
-- ![SCRUM](https://img.shields.io/badge/SCRUM-%23FF6F00.svg?style=flat&logo=scrum&logoColor=white) **SCRUM:** Para el trabajo colaborativo en proyectos de entregas continuas.
-
-- ![KANBAN](https://img.shields.io/badge/KANBAN-%230079BF.svg?style=flat&logo=trello&logoColor=white) **KANBAN:** Para visualizar el flujo de trabajo y el manejo de tareas de forma eficiente.
-
-<br>
-
 ## 📈 Estadísticas
 
 <div align="center">
@@ -60,6 +54,7 @@
 <br>
 
 ## ✉️ ¡Conectemos!
+
 <div align= "center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelb_dev/)
@@ -70,3 +65,5 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010d7d38036ae51888)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
