@@ -24,17 +24,35 @@
 
 <br>
 
-<div align= "center">
-  <a href="https:mailto: mbethancourt2005@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/miguel-bethancourt">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://x.com/miguelonb_dev">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
-  </a>
-</div>
+<table align="center" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" widht=90>
+        <a href="https://www.linkedin.com/in/miguel-bethancourt/" target="_blank">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+        </a>
+      <br>Linkedin
+    </td>
+   <td align="center" widht=90>
+        <a href="mailto:mbethancourt@gmail.com" target="_blank">
+            <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+        </a>
+        <br>Gmail
+    </td>
+    <td align="center" widht=90>
+        <a href="https://x.com/miguelonb_dev" target="_blank">
+            <img src="https://skillicons.dev/icons?i=twitter" />
+        </a>
+        <br>Twitter
+    </td>
+    <td align="center" widht=90>
+        <a href="#">
+            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+        </a>
+        <br>Portfolio
+    </td>
+
+  </tr>
+</table>
 
 ## <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Stack
 
@@ -67,5 +85,3 @@
 ![Productividad](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiguelB-dev&theme=github_dark&utcOffset=8)
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
