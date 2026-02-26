@@ -25,13 +25,15 @@
 <br>
 
 <div align= "center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-bethancourt-31024a375/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbethancourt2005@gmail.com?subject=Contact%20from%20GitHub)
-[![InfoJobs](https://img.shields.io/badge/InfoJobs-104CB0?style=for-the-badge&logo=)](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=16762098132415969803)
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010d7d38036ae51888)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/miguelonb_dev)
-
+  <a href="https:mailto: mbethancourt2005@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-bethancourt">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://x.com/miguelonb_dev">
+    <img src="https://skillicons.dev/icons?i="twitter"/>
+  </a>
 </div>
 
 ## <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="53" height="53"/> Stack
