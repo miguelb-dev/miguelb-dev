@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
-
 <h1 align="center"> Hola, soy Miguel Bethancourt <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=40&pause=1000&color=40c463&center=true&vCenter=true&random=false&width=1200&height=200&lines=%22Escribiendo+Código%2C+Construyendo+Sueños%22;¡Bienvenido+a+mi+Perfil+de+GitHub!)](https://git.io/typing-svg)
+<img src="/assets/gif/kois.gif" alt="Profile Image" width="100%"/>
+
+<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> Sobre mí
 
 <div>
-  <img align="right" src="/assets/gif/programmer-2.gif" alt="Profile Image" width="350"/>
+  <img align="right" src="/assets/gif/astronaut.gif" alt="Profile Image" width="200"/>
 </div>
 
 <br>
