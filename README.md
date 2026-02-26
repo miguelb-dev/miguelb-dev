@@ -7,7 +7,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" alt="Person Raising Hand" width="25" height="25" /> Sobre mí
 
 <div>
-  <img align="right" src="/assets/gif/astronaut.gif" alt="Profile Image" width="200"/>
+  <img align="right" src="/assets/gif/programmer.gif" alt="Profile Image" width="200"/>
 </div>
 
 <br>
