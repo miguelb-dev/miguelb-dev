@@ -1,8 +1,6 @@
-
-
 <h1 align="center"> Hola, soy Miguel Bethancourt <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/></h1>
 
-<img src="/assets/gif/kois.gif" alt="Profile Image" width="100%" height="450px"/>
+<img src="/assets/gif/github-banner.gif" alt="Profile Image" width="100%" height="450px"/>
 
 <br>
 
@@ -57,8 +55,6 @@
     <img src="https://skillicons.dev/icons?i=md"/>
   </a>
 </p>
-
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" /> Estadísticas
 
