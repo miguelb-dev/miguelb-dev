@@ -26,13 +26,13 @@
 
 <div align= "center">
   <a href="https:mailto: mbethancourt2005@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i="gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/miguel-bethancourt">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://x.com/miguelonb_dev">
-    <img src="https://skillicons.dev/icons?i="x"/>
+    <img src="https://skillicons.dev/icons?i=twitter"/>
   </a>
 </div>
 
