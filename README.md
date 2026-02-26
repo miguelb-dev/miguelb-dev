@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, soy Miguel Bethancourt <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/></h1>
+<h1 align="center"> Hola, soy <a href="https://www.linkedin.com/in/miguel-bethancourt/">Miguel Bethancourt</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" align="center"/></h1>
 
 <img src="/assets/gif/kois.gif" alt="Profile Image" width="100%" height="420px"/>
 
