@@ -59,14 +59,15 @@
 
 ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;"> ¡Conectemos!
 
+<br>
+
 <div align= "center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelb_dev/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/miguelonb_dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbethancourt2005@gmail.com?subject=Contact%20from%20GitHub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-bethancourt-31024a375/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbethancourt2005@gmail.com?subject=Contact%20from%20GitHub)
 [![InfoJobs](https://img.shields.io/badge/InfoJobs-104CB0?style=for-the-badge&logo=)](https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=16762098132415969803)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010d7d38036ae51888)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/miguelonb_dev)
 
 </div>
 
